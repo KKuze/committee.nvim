@@ -1,7 +1,8 @@
 local TestRunner = {}
 
 local testFiles = {
-    "tests.helloTest"
+    "tests.helloTest",
+    "tests.addBufferTest"
 }
 
 TestRunner.setup = function()
